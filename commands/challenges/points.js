@@ -12,7 +12,7 @@ module.exports = {
     example2: "points <@513571036688547871>",
     run: async (bot, message, args, prefix) => {
     
-        message.channel.send("link to challenge leaderboard: https://docs.google.com/spreadsheets/d/1SlVtzBB0jfQIczm2bL55tDj_OVJMbR1HZrkc-QmZOJ4/edit?usp=sharing"
+    message.channel.send("link to challenge leaderboard: https://docs.google.com/spreadsheets/d/1SlVtzBB0jfQIczm2bL55tDj_OVJMbR1HZrkc-QmZOJ4/edit?usp=sharing")
 
         }
       }
