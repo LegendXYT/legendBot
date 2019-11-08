@@ -1,0 +1,23 @@
+{
+  "name": "lxbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "ascii-table": "0.0.9",
+    "common-tags": "^1.8.0",
+    "discord-economy": "^1.2.2",
+    "discord.js": "^11.5.1",
+    "discord.js-reaction-menu": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "sequelize": "^5.21.2",
+    "sqlite3": "^4.1.0",
+    "table": "^5.4.6"
+  }
+}

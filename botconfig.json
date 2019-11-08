@@ -1,0 +1,93 @@
+{
+  "prefix": "+",
+
+  "guild": {
+    "serverID": "402295226766721024",
+    "ownerID": "513571036688547871",
+    "severINV": "https://discord.gg/J6zsD9f"
+  },
+  "info": {
+    "rulesChanID": "498634243841196052",
+    "welcomeChanID": "608975011918905384",
+    "selfrolesChanID": "512111888012804107",
+    "informationChanID": "501142470919192576",
+    "botInfoChanID": "574002684068102150"
+  },
+  "slowmodes": {
+    "youtubeChanID": "501259219421626388",
+    "advirtisementChanID": "501315465323347968",
+    "wyrChanID": "624580050100027402"
+  },
+  "other": {
+    "updateLogsChanID": "624600613375836171",
+    "suggestionsChanID": "624601558176497694",
+    "legendTVChanID": "622680996264935484"
+  },
+  "gameRoles": {
+    "moomooRoleID": "512120947642335255",
+    "mopeRoleID": "512120948636385290",
+    "survivRoleID": "512120951706615808",
+    "zombsroyaleRoleID": "512121158808633376",
+    "krunkerRoleID": "635418382556200980",
+    "cocRoleID": "512121158926336000",
+    "crRoleID": "512121160335491084",
+    "bsRoleID": "522384754012848138",
+    "rwRoleID": "622678952829386753"
+
+  },
+  "mentionedRoles": {
+    "announceNotfID": "624575125701918730",
+    "giveawaysNotfID": "624574891688984576"
+  },
+  "modoRoles": {
+    "muteRoleID": "501256452753850368",
+    "enemyRoleID": "629104169214804028",
+    "commanderRoleID": "625558331339177994",
+    "bypassRoleID": "558240239991390219",
+    "superMuteRoleID": "629508394176348161",
+    "verifierRoleID": "608972101717721088"
+
+  },
+  "verifyRoles": {
+    "memberRoleID": "501012087804395520",
+    "unverifiedRoleID": "608971087321235476"
+  },
+  "otherRoles": {
+    "lxMemberRoleID": "628510323711672330",
+    "lpxRecuritRoleID": "635380963731308545",
+    "vipRoleID": "622778160940974081",
+    "serverPartnerRoleID": "622762993813422080",
+    "developersRoleID": "544410435680731137",
+    "contentCreatorRoleID": "501140364003115018"
+  },
+  "rankedRoles": {
+    "activeRoleID": "501140701376020481",
+    "veryActiveRoleID": "501140700981755905",
+    "loyalRoleID": "501140700172124191",
+    "masterRoleID": "501140690214977539",
+    "championRoleID": "545199557873631232",
+    "titanRoleID": "545200027899789315",
+    "legendRoleID": "501141245553278992"
+  },
+  "colorRoles": {
+    "greyRoleID": "508940041574154240",
+    "pinkRoleID": "508942248969240576",
+    "blackRoleID": "558246673814650881",
+    "lightLimeRoleID": "508940040311930882",
+    "lightRedRoleID": "508939468204670976",
+    "purpleRoleID": "558253083499692053",
+    "blueRoleID": "508940041691594752",
+    "yellowRoleID": "508940037443026954",
+    "greenRoleID": "508940040660058112",
+    "orangeRoleID": "508942251661983754",
+    "darkBlueRoleID": "508940036084072468",
+    "redRoleID": "508942251892670488"
+  },
+  "staffRoles": {
+    "trialStaffRoleID": "529872775457013760",
+    "staffRoleID": "501140427689426979",
+    "trialModRoleID": "573994590336450607",
+    "moderatorRoleID": "501140004836474882",
+    "adminRoleID": "501139897990643733"
+  }
+}
