@@ -123,12 +123,6 @@ module.exports = {
               **lpx**
                 disables or enables to see if you want to see just LPX stuff or LPX and Legends community stuff. (lpx members only)
 
-              **register**
-                register yourself into the challenges
-
-              **add-points**
-                add points to a user for the challengers (staff only)
-
               **points**
                 check how much points you got.
 
@@ -137,12 +131,6 @@ module.exports = {
 
               **leaderboard**
                 see who is on top of the challenge leaderboard!
-
-              **remove-points**
-                remove points from a user for the challenges (staff only)
-
-              **reset-user**
-                reset the users progress back to 0 (Server owner only) {mainly used for end of season}
 
           `)
             .setFooter(`Page 4 of ${max} • ${prefix}help [command] for more information`)
