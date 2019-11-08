@@ -13,9 +13,6 @@ module.exports = {
     run: async (bot, message, args, prefix) => {
 
  let member = message.mentions.members.first() || message.guild.members.get(args[0]) || message.guild.members.find(x => x.displayName == args[0]) || message.member
- var output = await eco.FetchBalance(member.id)
- if (output.balance < 50) return message.reply(emote.cross + `You didn't register yet \`${prefix}register\` to get started!`)
-
 
 let moomoo = `The [moomoo.io](http://moomoo.io/) challenges are:
 \`\`\`fix
