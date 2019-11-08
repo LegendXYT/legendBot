@@ -9,7 +9,7 @@ module.exports = {
     category: "challengers",
     description: "Check the leaderboard!",
     run: async (bot, message, args, prefix) => {
-    message.channel.send("link to challenge leaderboard: https://docs.google.com/spreadsheets/d/1SlVtzBB0jfQIczm2bL55tDj_OVJMbR1HZrkc-QmZOJ4/edit?usp=sharing"
+    message.channel.send("link to challenge leaderboard: https://docs.google.com/spreadsheets/d/1SlVtzBB0jfQIczm2bL55tDj_OVJMbR1HZrkc-QmZOJ4/edit?usp=sharing")
 
         }
       }
