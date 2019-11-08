@@ -129,7 +129,7 @@ Please supply proof wether its a screenshot or a video recording and post in <#6
          if(!args[0]){
               message.channel.send(emote.cross + `INCORRECT ARGUMENT!\ndo \`${prefix}challenge categories\` to find out what games are in the database for the challenges\nuse \`${prefix}challenge <category>\` to see what the challengers are!`)
             } else if(args[0] === "categories" || args[0] === "games"){
-              message.channel.send(`\`\`\`fix\nThe Challenge categories are:\n\nmoomoo\nkrunker\nbrawl stars\nclash of clans\nother\n\nGood luck in these challengers and may the best person win ;)\`\`\``)
+              message.channel.send(`\`\`\`fix\nThe Challenge categories are:\n\nmoomoo\nkrunker\nbrawl stars\nclash of clans\nother\n\nGood luck in these challengers and may the best person win\nNOTE: that these categories are case sensitve!\`\`\``)
             } else if(args[0] === "moomoo" || args[0] === "moomoo.io"){
               let embed = new RichEmbed()
               .setColor("#0fe67f")
